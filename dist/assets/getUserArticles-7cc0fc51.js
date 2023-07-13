@@ -1,0 +1,1 @@
+import{P as c,m as i,aw as o,ax as n}from"./index-98068710.js";const h=async t=>{const r=c(i),e=await o(n(r,"users",t,"article")),a=[];return e.forEach(s=>{a.push({id:s.id,data:s.data()})}),a};export{h as g};
